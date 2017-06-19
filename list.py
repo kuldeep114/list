@@ -8,4 +8,4 @@ fruit_list.append('grapes')
 print 'now i have to purchase',len(fruit_list),'fruits',
 
 for item in(fruit_list):
- print item,
+ print item,       # code example of list
